@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bukulele
-- 👀 I’m going to switch to front-end after 10 years in sales and management
-- 🌱 That's why I’m currently learning front-end on freecodecamp.org
+- 👋 Hi, my name is Nikita
+- 👀 I've been learning JS since May 2021 after 10 years in sales and management
+- 🌱 Currently I'm working on a pet-project and couple of freelance projects.
 - 📫 you can contact me via email or telegram @nukulele
 
 <!---
